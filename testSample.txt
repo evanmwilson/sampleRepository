@@ -1,4 +1,4 @@
-This is text
+This is text and I am adding to it
 
 test
 
@@ -13,5 +13,3 @@ This is part of the new branch.
 
 
 This is a sample for editing both branches
-
-These are the words on the 2nd text branch, theyh are here for fun.
